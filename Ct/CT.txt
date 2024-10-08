@@ -1,0 +1,5 @@
+Name:- Bob, ID:- 101, CGPA:- 3.9
+Name:- Alice, ID:- 102, CGPA:- 3.75
+Name:- Milissa, ID:- 103, CGPA:- 3.65
+Name:- Robin, ID:- 104, CGPA:- 3.7
+Name:- HUD, ID:- 105, CGPA:- 3.6

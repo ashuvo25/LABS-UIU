@@ -1,0 +1,55 @@
+Server started on port 8080
+Client-0 connected
+Client-0 sent: hi
+Client-1 connected
+Client-1 sent: hello
+Client-0 sent: how are you??
+Client-1 sent: cd "f:\C++\PYTHON\Aoop\Assignment_aoop\" ; if ($?) { javac Client1.java } ; if ($?) { java Client1 }
+Client-1 sent: i am fine
+Client-1 sent: cd "f:\C++\PYTHON\Aoop\Assignment_aoop\" ; if ($?) { javac Client1.java } ; if ($?) { java Client1 }
+Client-1 sent: cd "f:\C++\PYTHON\Aoop\Assignment_aoop\" ; if ($?) { javac Client1.java } ; if ($?) { java Client1 }
+Client-1 sent: cd "f:\C++\PYTHON\Aoop\Assignment_aoop\" ; if ($?) { javac Client2.java } ; if ($?) { java Client2 }
+Client-1 sent: cd "f:\C++\PYTHON\Aoop\Assignment_aoop\" ; if ($?) { javac Client2.java } ; if ($?) { java Client2 }
+Client-1 sent: cd "f:\C++\PYTHON\Aoop\Assignment_aoop\" ; if ($?) { javac Client2.java } ; if ($?) { java Client2 }
+Client-1 disconnected
+Client-0 disconnected
+Server started on port 8080
+Client-0 connected
+Client-0 sent: hello  i am clint 0
+Client-0 sent: cd "f:\C++\PYTHON\Aoop\Assignment_aoop\" ; if ($?) { javac Client1.java } ; if ($?) { java Client1 }
+Client-1 connected
+Client-1 sent: hello i am clint 1
+Client-0 sent: nice to meet y clint 1
+Client-1 sent: thank u 
+Client-2 connected
+Client-2 sent: hi all i am clint 2
+Client-1 sent: hello clint 2 , i am clint 1
+Server started on port 8080
+Server started on port 8080
+Client-0 connected
+Client-0 sent: hiii
+Client-1 connected
+Client-2 connected
+Client-2 sent: hola
+Client-0 sent: good morning
+Client-1 sent: good morning
+Client-2 sent: yes
+Client-0 sent: huhuhuhuh
+Client-1 sent: hhuhuhuhu
+Client-0 disconnected
+Client-3 connected
+Client-4 connected
+Client-3 disconnected
+Client-4 disconnected
+Client-5 connected
+Client-5 sent: a@g.com: hi
+Client-6 connected
+Client-6 sent: w@g.com: hi
+Client-5 sent: a@g.com: hello
+Client-6 sent: w@g.com: kindly
+Client-5 disconnected
+Client-6 disconnected
+Client-7 connected
+Client-7 disconnected
+Client-2 disconnected
+Client-1 disconnected
